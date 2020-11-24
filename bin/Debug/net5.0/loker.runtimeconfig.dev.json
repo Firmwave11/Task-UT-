@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Klik Digital Sinergi\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Klik Digital Sinergi\\.nuget\\packages"
+    ]
+  }
+}
